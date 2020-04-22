@@ -137,7 +137,7 @@
     color: var(--primaryColor);
   }
   .show-nav {
-    height: 100px;
+    height: 150px;
   }
   @media screen and (min-width: 768px) {
     .nav-btn {
