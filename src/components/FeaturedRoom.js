@@ -9,6 +9,7 @@ export default function FeaturedRoom() {
         return <Room key={room.id} room={room}/>
 })
 return (
+
     <section className="featured-rooms">
     <Title title="Featured Rooms"/>
     <div className="featured-rooms-center">

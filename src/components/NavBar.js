@@ -39,6 +39,9 @@ constructor(props){
                           <li>
                               <Link to="/rooms">Rooms</Link>
                           </li>
+                          <li>
+                              <Link to="/covid-19">Covid-19</Link>
+                          </li>
                       </ul>
                       </div>  
             </nav>
